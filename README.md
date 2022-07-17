@@ -34,10 +34,4 @@ Files | Description
 [106-O](./106-O) | Time complexity of Bitonic sort
 [107-quick_sort_hoare.c](./107-quick_sort_hoare.c) | Implementation of the Quicksort algorithm with the Hoare partition scheme
 [1000-sort_deck.c](./1000-sort_deck.c) | Function that sorts a deck of cards
-[deck.h](./deck.h) | Header file for the card deck sorting function
-
-
-## Authors
-Laura Roudge
-Ethan Mayer
-Cohort 8 - Holberton School
+[deck.h](./deck.h) | Header file for the card deck sorting functio
